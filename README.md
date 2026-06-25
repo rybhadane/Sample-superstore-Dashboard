@@ -20,3 +20,4 @@ This dataset is usually used for getting handson experience on various dashboard
 3. Filter by Year of Order Date
 
 ## Tableau Dashboard Image
+https://github.com/rybhadane/Sample-superstore-Dashboard/blob/main/Screenshot%202026-06-12%20191931.png
