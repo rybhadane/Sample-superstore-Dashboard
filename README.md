@@ -3,7 +3,7 @@
 This dataset is usually used for getting handson experience on various dashboards
 
 ## Dataset Given
-
+[Dataset](https://github.com/rybhadane/Sample-superstore-Dashboard/blob/main/sample_-_superstore.xls)
 
 ## Questions
 Develop a Tableau dashboard utilizing the Sample Superstore dataset, as shown in below figures. The formatting / labelling / spacing / alignment should be the same as used in the charts. The Dashboard should have the following features:
