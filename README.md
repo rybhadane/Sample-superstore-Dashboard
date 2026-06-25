@@ -20,4 +20,8 @@ This dataset is usually used for getting handson experience on various dashboard
 3. Filter by Year of Order Date
 
 ## Tableau Dashboard Image
-https://github.com/rybhadane/Sample-superstore-Dashboard/blob/main/Screenshot%202026-06-12%20191931.png
+<img width="1607" height="805" alt="Screenshot 2026-06-12 191931" src="https://github.com/user-attachments/assets/f71df733-9bf3-4198-95f6-b246360bee5d" />
+
+## Conclusion
+The report covers $2.30M in sales across product categories, US regions, and customer segments — with dynamic metric switching between Sales, Profit, and Order Count. Technology was the top category at 36% of revenue. Applied DAX for YoY growth calculations (33.95% growth in 2016), and used advanced features. 
+
